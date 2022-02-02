@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**phani8493/phani8493** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im VNV PHANEENDRA .
+  I am doing MS in Computer Science.
+  I have done my graduation in Electronics and communication.
+  I always love to integrate devices with software and hardware 
+  That lead me to learn both electronics and computers.
+- 🔭 I’m currently working on Embedded Systems.
+- 🌱 I’m currently learning Web applications.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-      @vangipurapunvphaneendra@gmail.com
+
+- ⚡ Fun fact: ...I love to travel the world.
+
